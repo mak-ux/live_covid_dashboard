@@ -6,3 +6,6 @@ This dashboard contain details of test centres in india and live covid-19 cases 
 
 To see Live dashboard run kanhaiya.html file on your browser
 
+# Link to the project
+
+https://nasal-category.000webhostapp.com/bootstrap2.html
