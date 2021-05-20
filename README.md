@@ -1,3 +1,4 @@
+![covid_dash_board](https://user-images.githubusercontent.com/58850584/118955134-0d96c500-b97c-11eb-89de-cb88519de333.png)
 # live_covid_dashboard
 
 This project is created using python folium and it is a web-based dashboard.
